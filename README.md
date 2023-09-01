@@ -4,13 +4,3 @@
 <h3>yarn install</h3>
 <h3>yarn dev</h3>
 <br />
-
-![image](https://github.com/hackman-v6/invalid/assets/100475261/dfcbbe34-74b1-4385-842d-dc30f027522b)
-
-![image](https://github.com/hackman-v6/invalid/assets/100475261/07a5462e-00b1-49c4-b4ae-d54632195be9)
-
-
-![Screenshot 2023-06-25 024731](https://github.com/hackman-v6/invalid/assets/100475261/dcdb1224-85ba-445c-a5ab-590df64e9852)
-
-![image](https://github.com/hackman-v6/invalid/assets/100475261/1bdf7552-f8a6-4352-9af1-b552ebe0188b)
-
